@@ -3,7 +3,13 @@
 ## Given
 - Användaren vill rapportera in ett möte med en kontakt
 - Det finns bakgrundsprat från andra personer i rummet
-- Testdata innehåller information om Maria Jönsson på Vattenfall
+- Testdata:
+     first name: "Maria"
+     last name: "Jönsson"
+     email: "maria.jonsson@vattenfall.se"
+     company: "Vattenfall"
+     role: "Projektledare"
+
 
 ## When
 - Användaren säger: "Hej, jag vill rapportera in ett möte med Maria Jönsson på Vattenfall" samtidigt som en annan person i rummet säger "Jag tänker gå till restaurangen på hörnet för lunch"
