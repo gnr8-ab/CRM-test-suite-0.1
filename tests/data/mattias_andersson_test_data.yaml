@@ -1,0 +1,10 @@
+persons:
+  - name: "Mattias Andersson"
+    company: "Vattenfall"
+    role: "Projektledare"
+  - name: "Mattias Andersson"
+    company: "Vattenfall"
+    role: "Head of Development"
+  - name: "Mattias Andersson"
+    company: "Vattenfall"
+    role: "Analytiker" 
