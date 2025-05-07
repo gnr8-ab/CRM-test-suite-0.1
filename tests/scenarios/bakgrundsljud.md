@@ -4,10 +4,10 @@
 - Användaren vill rapportera in ett möte med en kontakt
 - Det finns bakgrundsprat från andra personer i rummet
 - Testdata:
-     first name: "Maria"
+   - first name: "Maria"
      last name: "Jönsson"
-     email: "maria.jonsson@vattenfall.se"
      company: "Vattenfall"
+     email: "maria.jonsson@vattenfall.se"
      role: "Projektledare"
 
 

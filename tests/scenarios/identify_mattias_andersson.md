@@ -5,10 +5,12 @@
    - first name: "Mattias"
      last name: "Andersson"
      company: "Vattenfall"
+     email: "mattias.andersson@vattenfall.se"
      role: "Project Manager"
    - first name: "Mattias"
      last name: "Andersson"
      company: "Vattenfall"
+     email: "mattias.g.andersson@vattenfall.se"
      role: "Head of Development"
 
 ## When
