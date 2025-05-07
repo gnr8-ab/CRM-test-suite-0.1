@@ -16,4 +16,12 @@
 
 ## Then
 - ALTERNATIV 1 (filtrering): Systemet ska svara: "Jag har noterat att du har träffat Maria Jönsson på Vattenfall. Vill du lägga till detaljer om mötet?"
-- ALTERNATIV 2 (fråga): Systemet ska svara: "Jag uppfattade att du vill rapportera ett möte med Maria Jönsson på Vattenfall, men jag hörde också något om lunch. Var det något mer du ville rapportera om mötet?" 
+  - must_not_contain:
+    - "lunch"
+    - "restaurang"
+    - "hörn"
+  - must_contain:
+    - "Maria"
+    - "Jönsson"
+    - "Vattenfall"
+- ALTERNATIV 2 (fråga): Systemet ska svara: "Nu hörde jag en del saker som jag inte tror är en del av rapporteringen. Kan du säga det igen?"

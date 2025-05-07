@@ -20,3 +20,6 @@
 
 ## Then
 - Systemet ska svara: "Menar Mattias Andersson som är Head of Development på Vattenfall?" 
+- must_contain:
+  - "Mattias"
+  - "Head of Development"
