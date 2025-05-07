@@ -1,0 +1,5 @@
+contacts:
+  - name: "Maria Jönsson"
+    company: "Vattenfall"
+    role: "Projektledare"
+    email: "maria.jonsson@vattenfall.com" 
